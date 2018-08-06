@@ -1,4 +1,4 @@
-# String_Decoding
+# String Decoding
 Decoding input string - so called task of 'decompression'
 
 ### Reference to:
