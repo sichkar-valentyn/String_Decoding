@@ -1,3 +1,17 @@
+# File: string_decoding.py
+# Description: Decoding string, decompression task
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Decoding string, decompression task // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/String_Decoding (date of access: XX.XX.XXXX)
+
+
+
+
 # Implementing the task
 # Decoding input string
 # Example
