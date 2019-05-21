@@ -1,6 +1,9 @@
 # String Decoding
 Decoding input string - so called task of 'decompression'
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Decoding string, decompression task // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/String_Decoding (date of access: XX.XX.XXXX)
 
